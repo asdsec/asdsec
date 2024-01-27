@@ -1,3 +1,5 @@
+<h2 align="center">Samet Demir<h2/>
+
 <h3 align="center">IT Solutions Designer and Developer | Mathematics Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asdsec&label=Profile%20views&color=0e75b6&style=flat" alt="asdsec" /> </p>
